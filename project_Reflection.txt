@@ -1,0 +1,18 @@
+John joshua 
+
+1. What is one program you wrote that you were particularly proud of during this course? Why were you proud? Explain.
+
+Answer: I am most proud of my final project, the Personal Expense Tracker. I am proud of this program because it was the first time I built an application that solves a genuine problem in my daily life managing finances rather than just solving a textbook puzzle.
+
+
+2. How might you use the skills you learned in this course in the future?
+
+Answer: I see myself using these skills in several ways:
+Data Analysis: The ability to read, filter, and process CSV files is a critical skill in business and data science. I can now write scripts to automate the processing of spreadsheets instead of doing it manually.
+
+
+
+3. Describe an experience from this class that has given you confidence that you can learn new programming skills in the future.
+
+Answer: A specific experience that gave me confidence was the process of adapting the "Grocery Store" assignment logic into my own Expense Tracker.
+Initially, I struggled to understand how to manipulate lists of lists and access data using index constants (like CATEGORY_INDEX). However, as I wrote the read_expenses function and finally saw my own data printing out correctly in the terminal, it clicked.

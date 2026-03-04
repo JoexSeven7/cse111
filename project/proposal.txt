@@ -1,0 +1,40 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+    Answer:Personal Expense Tracker.
+
+
+2. What real-world problem will your program address or help to solve?
+     Answer: Many university students struggle to manage their finances because they do not keep a consistent record of their spending. Without knowing how much is spent on specific categories,like food, rent, or entertainment, it is difficult to budget effectively. This program will solve this problem by allowing a user to save their daily expenses to a file and generate quick summaries of their total spending by category.
+
+
+3. What will you learn from developing this program?
+     Answer:I will learn how to read from and write to CSV files to create persistent data storage. I will also learn how to manipulate lists of dictionaries to filter data and perform aggregate calculations. Finally, I will practice writing robust test functions for data processing logic using pytest.
+
+
+4. What Python modules will your program use?
+     Answer: csv, datetime, pytest
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+5. List the names of functions you will need?
+     Answer: read_expenses(filename)
+            make_expense_record(date, category, description, amount):
+            filter_by_category(expenses_list, category) 
+            calculate_total(expenses_list)
+            get_current_date(): 
+
+6. List the names of the test functions you will write.
+    Answer:test_make_expense_record
+           test_filter_by_category
+           test_calculate_total
